@@ -1,0 +1,8 @@
+[package]
+name = "trawler"
+version = "0.1.0"
+authors = ["Ferran Basora <fcsonline@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+notify = "4.0.0"
